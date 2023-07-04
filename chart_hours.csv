@@ -1,0 +1,1366 @@
+Week_Ending_Date,Resource_Code,Actual_Hours,Weekly_Budget_Hours,FTE_Actual_Count,Budget_FTE_Count
+2021-06-06,800E-Electrical-Eng,0,0,0,0.02375
+2021-06-13,800E-Electrical-Eng,0,0,0,0.02375
+2021-06-20,800E-Electrical-Eng,0,0,0,0.02375
+2021-06-27,800E-Electrical-Eng,0,0,0,0.02375
+2021-06-27,PM-Program Management,0,1,0,0.03625
+2021-07-04,800E-Electrical-Eng,0,0,0,0.02375
+2021-07-04,PM-Program Management,0,1,0,0.03625
+2021-07-11,800E-Electrical-Eng,0,0,0,0.02375
+2021-07-11,PM-Program Management,0,1,0,0.03625
+2021-07-18,800E-Electrical-Eng,0,0,0,0.02375
+2021-07-18,PM-Program Management,0,1,0,0.03625
+2021-07-25,800E-Electrical-Eng,0,0,0,0.02375
+2021-07-25,PM-Program Management,0,1,0,0.03625
+2021-08-01,800E-Electrical-Eng,0,0,0,0.02375
+2021-08-01,PM-Program Management,0,1,0,0.03625
+2021-08-08,800E-Electrical-Eng,0,0,0,0.02375
+2021-08-08,PM-Program Management,0,1,0,0.03625
+2021-08-15,800E-Electrical-Eng,0,0,0,0.02375
+2021-08-15,PM-Program Management,0,1,0,0.03625
+2021-08-22,800E-Electrical-Eng,0,0,0,0.02375
+2021-08-22,PM-Program Management,0,1,0,0.03625
+2021-08-29,800E-Electrical-Eng,0,0,0,0.02375
+2021-08-29,PM-Program Management,0,1,0,0.03625
+2021-09-05,800E-Electrical-Eng,0,0,0,0.02375
+2021-09-05,PM-Program Management,0,1,0,0.03625
+2021-09-12,800E-Electrical-Eng,0,0,0,0.02375
+2021-09-12,PM-Program Management,0,1,0,0.03625
+2021-09-19,800E-Electrical-Eng,0,0,0,0.02375
+2021-09-19,PM-Program Management,0,1,0,0.03625
+2021-09-26,800E-Electrical-Eng,0,0,0,0.02375
+2021-09-26,PM-Program Management,0,1,0,0.03625
+2021-10-03,800E-Electrical-Eng,0,57,0,1.48875
+2021-10-03,930L-Tests & Trials,0,0,0,0.01375
+2021-10-03,CE-Contracts,0,0,0,0.02
+2021-10-03,EST-Estimating,0,1,0,0.025
+2021-10-03,EVM-Earned Value,0,1,0,0.0275
+2021-10-03,PC-Production Control,0,7,0,0.18375
+2021-10-03,PM-Program Management,0,9,0,0.2675
+2021-10-03,QAQC-Quality,0,0,0,0.00125
+2021-10-03,SCM-Supply Chain,0,41,0,1.03
+2021-10-10,800E-Electrical-Eng,0,213,0,5.415
+2021-10-10,800H-Structures,12,0,1,1
+2021-10-10,800M-Mechanical,0,152,0,3.89375
+2021-10-10,800X-ILS,0,12,0,0.32
+2021-10-10,930L-Tests & Trials,0,0,0,0.01375
+2021-10-10,CE-Contracts,5,0,1,0.02
+2021-10-10,EST-Estimating,0,1,0,0.025
+2021-10-10,EVM-Earned Value,0,1,0,0.0325
+2021-10-10,PC-Production Control,0,8,0,0.22125
+2021-10-10,PM-Program Management,0,9,0,0.2675
+2021-10-10,QAQC-Quality,0,0,0,0.00125
+2021-10-10,SCM-Supply Chain,6,41,2,1.03
+2021-10-17,800E-Electrical-Eng,0,213,0,5.415
+2021-10-17,800H-Structures,5,0,1,1
+2021-10-17,800M-Mechanical,0,152,0,3.89375
+2021-10-17,800X-ILS,0,12,0,0.32
+2021-10-17,930L-Tests & Trials,0,0,0,0.01375
+2021-10-17,CE-Contracts,4,0,1,0.02
+2021-10-17,EST-Estimating,0,1,0,0.025
+2021-10-17,EVM-Earned Value,1,1,1,0.03
+2021-10-17,PC-Production Control,0,8,0,0.22125
+2021-10-17,PM-Program Management,0,9,0,0.2675
+2021-10-17,QAQC-Quality,0,0,0,0.00125
+2021-10-17,SCM-Supply Chain,17,41,5,1.03
+2021-10-24,800E-Electrical-Eng,0,213,0,5.415
+2021-10-24,800H-Structures,0,89,0,2.275
+2021-10-24,800M-Mechanical,0,152,0,3.89375
+2021-10-24,800X-ILS,0,12,0,0.32
+2021-10-24,930L-Tests & Trials,0,0,0,0.01375
+2021-10-24,CE-Contracts,3,0,1,0.02
+2021-10-24,EST-Estimating,0,1,0,0.025
+2021-10-24,EVM-Earned Value,0,1,0,0.0325
+2021-10-24,PC-Production Control,0,8,0,0.22125
+2021-10-24,PM-Program Management,0,9,0,0.2675
+2021-10-24,QAQC-Quality,0,0,0,0.00125
+2021-10-24,SCM-Supply Chain,31,41,8,1.03
+2021-10-31,800E-Electrical-Eng,0,213,0,5.415
+2021-10-31,800H-Structures,0,43,0,1.1075
+2021-10-31,800M-Mechanical,0,152,0,3.89375
+2021-10-31,800X-ILS,0,12,0,0.32
+2021-10-31,930L-Tests & Trials,0,0,0,0.01375
+2021-10-31,CE-Contracts,2,0,1,0.02
+2021-10-31,EST-Estimating,0,1,0,0.025
+2021-10-31,EVM-Earned Value,0,1,0,0.0325
+2021-10-31,PC-Production Control,0,8,0,0.22125
+2021-10-31,PM-Program Management,0,9,0,0.2675
+2021-10-31,QAQC-Quality,0,0,0,0.00125
+2021-10-31,SCM-Supply Chain,34,41,5,1.03
+2021-11-07,800E-Electrical-Eng,0,213,0,5.415
+2021-11-07,800H-Structures,0,45,0,1.18
+2021-11-07,800M-Mechanical,0,152,0,3.89375
+2021-11-07,800X-ILS,0,12,0,0.32
+2021-11-07,930L-Tests & Trials,0,0,0,0.01375
+2021-11-07,CE-Contracts,2,0,1,0.02
+2021-11-07,EST-Estimating,0,1,0,0.025
+2021-11-07,EVM-Earned Value,0,1,0,0.0325
+2021-11-07,PC-Production Control,1,7,1,0.18
+2021-11-07,PM-Program Management,0,9,0,0.2675
+2021-11-07,QAQC-Quality,0,0,0,0.00125
+2021-11-07,SCM-Supply Chain,29,41,5,1.03
+2021-11-14,800E-Electrical-Eng,0,213,0,5.415
+2021-11-14,800H-Structures,0,45,0,1.18
+2021-11-14,800M-Mechanical,0,152,0,3.89375
+2021-11-14,800X-ILS,0,12,0,0.32
+2021-11-14,930L-Tests & Trials,0,0,0,0.01375
+2021-11-14,CE-Contracts,6,0,1,0.02
+2021-11-14,EST-Estimating,0,1,0,0.025
+2021-11-14,EVM-Earned Value,0,1,0,0.0325
+2021-11-14,PC-Production Control,0,8,0,0.22125
+2021-11-14,PM-Program Management,0,9,0,0.2675
+2021-11-14,QAQC-Quality,0,0,0,0.00125
+2021-11-14,SCM-Supply Chain,34,41,7,1.03
+2021-11-21,800E-Electrical-Eng,0,213,0,5.415
+2021-11-21,800H-Structures,0,45,0,1.18
+2021-11-21,800M-Mechanical,0,152,0,3.89375
+2021-11-21,800X-ILS,0,12,0,0.32
+2021-11-21,930L-Tests & Trials,0,0,0,0.01375
+2021-11-21,CE-Contracts,6,0,1,0.02
+2021-11-21,EST-Estimating,0,1,0,0.025
+2021-11-21,EVM-Earned Value,0,1,0,0.0325
+2021-11-21,PC-Production Control,0,8,0,0.22125
+2021-11-21,PM-Program Management,0,9,0,0.2675
+2021-11-21,QAQC-Quality,0,0,0,0.00125
+2021-11-21,SCM-Supply Chain,35,41,7,1.03
+2021-11-28,800E-Electrical-Eng,0,213,0,5.415
+2021-11-28,800H-Structures,-17,0,1,1
+2021-11-28,800M-Mechanical,0,152,0,3.89375
+2021-11-28,800X-ILS,0,12,0,0.32
+2021-11-28,930L-Tests & Trials,0,0,0,0.01375
+2021-11-28,CE-Contracts,0,0,0,0.02
+2021-11-28,EST-Estimating,0,1,0,0.025
+2021-11-28,EVM-Earned Value,0,1,0,0.0325
+2021-11-28,PC-Production Control,0,8,0,0.22125
+2021-11-28,PM-Program Management,0,9,0,0.2675
+2021-11-28,QAQC-Quality,0,0,0,0.00125
+2021-11-28,SCM-Supply Chain,7,41,5,1.03
+2021-12-05,800E-Electrical-Eng,0,213,0,5.415
+2021-12-05,800H-Structures,0,50,0,1.32875
+2021-12-05,800M-Mechanical,0,152,0,3.89375
+2021-12-05,800X-ILS,0,12,0,0.32
+2021-12-05,930L-Tests & Trials,0,0,0,0.01375
+2021-12-05,CE-Contracts,1,0,1,0.02
+2021-12-05,EST-Estimating,0,1,0,0.025
+2021-12-05,EVM-Earned Value,0,1,0,0.0325
+2021-12-05,PC-Production Control,0,8,0,0.22125
+2021-12-05,PM-Program Management,0,9,0,0.2675
+2021-12-05,QAQC-Quality,0,0,0,0.00125
+2021-12-05,SCM-Supply Chain,19,41,9,1.03
+2021-12-12,800E-Electrical-Eng,0,213,0,5.415
+2021-12-12,800H-Structures,0,50,0,1.32875
+2021-12-12,800M-Mechanical,0,152,0,3.89375
+2021-12-12,800X-ILS,0,12,0,0.32
+2021-12-12,930L-Tests & Trials,0,0,0,0.01375
+2021-12-12,CE-Contracts,4,0,1,0.02
+2021-12-12,EST-Estimating,0,1,0,0.025
+2021-12-12,EVM-Earned Value,0,1,0,0.0325
+2021-12-12,PC-Production Control,0,8,0,0.22125
+2021-12-12,PM-Program Management,2,2,1,0.06
+2021-12-12,QAQC-Quality,0,0,0,0.00125
+2021-12-12,SCM-Supply Chain,23,41,8,1.03
+2021-12-19,800E-Electrical-Eng,0,213,0,5.415
+2021-12-19,800H-Structures,0,37,0,1.06125
+2021-12-19,800M-Mechanical,0,197,0,5.04125
+2021-12-19,800X-ILS,0,12,0,0.32
+2021-12-19,930L-Tests & Trials,0,0,0,0.01375
+2021-12-19,CE-Contracts,4,0,1,0.02
+2021-12-19,EST-Estimating,0,1,0,0.025
+2021-12-19,EVM-Earned Value,0,1,0,0.0325
+2021-12-19,PC-Production Control,0,8,0,0.22125
+2021-12-19,PM-Program Management,0,2,1,0.06
+2021-12-19,QAQC-Quality,0,0,0,0.00125
+2021-12-19,SCM-Supply Chain,24,41,8,1.03
+2021-12-26,800E-Electrical-Eng,0,213,0,5.415
+2021-12-26,800H-Structures,0,40,0,1.1625
+2021-12-26,800M-Mechanical,0,197,0,5.04125
+2021-12-26,800X-ILS,0,12,0,0.32
+2021-12-26,930L-Tests & Trials,0,0,0,0.01375
+2021-12-26,CE-Contracts,1,0,1,0.02
+2021-12-26,EST-Estimating,0,1,0,0.025
+2021-12-26,EVM-Earned Value,0,1,0,0.0325
+2021-12-26,PC-Production Control,0,8,0,0.22125
+2021-12-26,PM-Program Management,0,9,0,0.2675
+2021-12-26,QAQC-Quality,0,0,0,0.00125
+2021-12-26,SCM-Supply Chain,25,41,9,1.03
+2022-01-02,800E-Electrical-Eng,0,75,0,1.93375
+2022-01-02,800H-Structures,0,40,0,1.1625
+2022-01-02,800M-Mechanical,0,121,0,3.10375
+2022-01-02,930L-Tests & Trials,0,0,0,0.01375
+2022-01-02,CE-Contracts,0,0,0,0.02
+2022-01-02,EST-Estimating,0,1,0,0.025
+2022-01-02,EVM-Earned Value,0,1,0,0.0325
+2022-01-02,PC-Production Control,0,8,0,0.22125
+2022-01-02,PM-Program Management,0,9,0,0.2675
+2022-01-02,QAQC-Quality,0,0,0,0.00125
+2022-01-02,SCM-Supply Chain,0,41,0,1.03
+2022-01-09,800E-Electrical-Eng,0,278,0,7.08375
+2022-01-09,800H-Structures,0,40,0,1.1825
+2022-01-09,800M-Mechanical,0,193,0,4.9125
+2022-01-09,800X-ILS,0,4,0,0.1025
+2022-01-09,930L-Tests & Trials,0,0,0,0.01375
+2022-01-09,CE-Contracts,3,0,1,0.02
+2022-01-09,EST-Estimating,0,1,0,0.025
+2022-01-09,EVM-Earned Value,0,1,0,0.0325
+2022-01-09,PC-Production Control,1,7,1,0.18
+2022-01-09,PM-Program Management,0,9,0,0.2675
+2022-01-09,QAQC-Quality,0,0,0,0.00125
+2022-01-09,SCM-Supply Chain,15,41,8,1.03
+2022-01-16,800E-Electrical-Eng,0,278,0,7.08375
+2022-01-16,800H-Structures,0,40,0,1.1825
+2022-01-16,800M-Mechanical,0,195,0,4.985
+2022-01-16,800X-ILS,0,4,0,0.1025
+2022-01-16,930L-Tests & Trials,0,0,0,0.01375
+2022-01-16,CE-Contracts,2,0,1,0.02
+2022-01-16,EST-Estimating,0,1,0,0.025
+2022-01-16,EVM-Earned Value,0,1,0,0.0325
+2022-01-16,PC-Production Control,0,8,0,0.22125
+2022-01-16,PM-Program Management,0,9,0,0.2675
+2022-01-16,QAQC-Quality,0,0,0,0.00125
+2022-01-16,SCM-Supply Chain,9,41,7,1.03
+2022-01-23,800A-Administration,0,54,0,1.35625
+2022-01-23,800E-Electrical-Eng,0,278,0,7.085
+2022-01-23,800H-Structures,0,43,0,1.30125
+2022-01-23,800M-Mechanical,0,150,0,3.8375
+2022-01-23,800X-ILS,0,4,0,0.1025
+2022-01-23,930L-Tests & Trials,0,0,0,0.01375
+2022-01-23,CE-Contracts,1,0,1,0.02
+2022-01-23,EST-Estimating,0,1,0,0.025
+2022-01-23,EVM-Earned Value,0,1,0,0.0325
+2022-01-23,PC-Production Control,0,8,0,0.22125
+2022-01-23,PM-Program Management,0,9,0,0.2675
+2022-01-23,QAQC-Quality,0,0,0,0.00125
+2022-01-23,SCM-Supply Chain,15,41,7,1.03
+2022-01-30,800A-Administration,0,54,0,1.35625
+2022-01-30,800E-Electrical-Eng,0,278,0,7.085
+2022-01-30,800H-Structures,0,43,0,1.30125
+2022-01-30,800M-Mechanical,0,150,0,3.8375
+2022-01-30,800X-ILS,0,4,0,0.1025
+2022-01-30,930L-Tests & Trials,0,0,0,0.01375
+2022-01-30,CE-Contracts,0,0,0,0.02
+2022-01-30,EST-Estimating,0,1,0,0.025
+2022-01-30,EVM-Earned Value,0,1,0,0.0325
+2022-01-30,PC-Production Control,0,8,0,0.22125
+2022-01-30,PM-Program Management,0,9,0,0.2675
+2022-01-30,QAQC-Quality,0,0,0,0.00125
+2022-01-30,SCM-Supply Chain,13,41,8,1.03
+2022-02-06,800A-Administration,0,153,0,3.88375
+2022-02-06,800E-Electrical-Eng,0,138,0,3.59125
+2022-02-06,800H-Structures,0,126,0,3.38875
+2022-02-06,800M-Mechanical,0,151,0,3.90125
+2022-02-06,800X-ILS,0,4,0,0.1025
+2022-02-06,930L-Tests & Trials,0,0,0,0.01375
+2022-02-06,CE-Contracts,2,0,1,0.02
+2022-02-06,EST-Estimating,0,1,0,0.025
+2022-02-06,EVM-Earned Value,0,1,0,0.0325
+2022-02-06,PC-Production Control,0,8,0,0.22125
+2022-02-06,PM-Program Management,0,9,0,0.2675
+2022-02-06,QAQC-Quality,0,0,0,0.00125
+2022-02-06,SCM-Supply Chain,12,41,7,1.03
+2022-02-13,800A-Administration,0,153,0,3.88375
+2022-02-13,800E-Electrical-Eng,0,138,0,3.59125
+2022-02-13,800H-Structures,0,126,0,3.38875
+2022-02-13,800M-Mechanical,0,151,0,3.90125
+2022-02-13,800X-ILS,0,4,0,0.1025
+2022-02-13,930L-Tests & Trials,0,0,0,0.01375
+2022-02-13,CE-Contracts,1,0,1,0.02
+2022-02-13,EST-Estimating,0,1,0,0.025
+2022-02-13,EVM-Earned Value,0,1,0,0.0325
+2022-02-13,PC-Production Control,0,8,0,0.22125
+2022-02-13,PM-Program Management,0,9,0,0.2675
+2022-02-13,QAQC-Quality,0,0,0,0.00125
+2022-02-13,SCM-Supply Chain,10,41,7,1.03
+2022-02-20,800A-Administration,0,153,0,3.88375
+2022-02-20,800E-Electrical-Eng,0,138,0,3.59125
+2022-02-20,800H-Structures,0,126,0,3.38875
+2022-02-20,800M-Mechanical,0,151,0,3.90125
+2022-02-20,800X-ILS,0,4,0,0.1025
+2022-02-20,930L-Tests & Trials,0,0,0,0.01375
+2022-02-20,CE-Contracts,0,0,0,0.02
+2022-02-20,EST-Estimating,0,1,0,0.025
+2022-02-20,EVM-Earned Value,0,1,0,0.0325
+2022-02-20,PC-Production Control,0,8,0,0.22125
+2022-02-20,PM-Program Management,0,9,0,0.2675
+2022-02-20,QAQC-Quality,0,0,0,0.00125
+2022-02-20,SCM-Supply Chain,10,41,7,1.03
+2022-02-27,800A-Administration,0,153,0,3.88375
+2022-02-27,800E-Electrical-Eng,0,138,0,3.59125
+2022-02-27,800H-Structures,0,126,0,3.38875
+2022-02-27,800M-Mechanical,0,151,0,3.90125
+2022-02-27,800X-ILS,0,4,0,0.1025
+2022-02-27,930L-Tests & Trials,0,0,0,0.01375
+2022-02-27,CE-Contracts,0,0,0,0.02
+2022-02-27,EST-Estimating,0,1,0,0.025
+2022-02-27,EVM-Earned Value,0,1,1,0.03
+2022-02-27,PC-Production Control,0,8,0,0.22125
+2022-02-27,PM-Program Management,0,9,0,0.2675
+2022-02-27,QAQC-Quality,0,0,0,0.00125
+2022-02-27,SCM-Supply Chain,13,41,8,1.03
+2022-03-06,800A-Administration,0,153,0,3.88375
+2022-03-06,800E-Electrical-Eng,0,138,0,3.605
+2022-03-06,800H-Structures,0,126,0,3.38875
+2022-03-06,800M-Mechanical,0,151,0,3.905
+2022-03-06,800X-ILS,0,4,0,0.1025
+2022-03-06,930L-Tests & Trials,0,0,0,0.01375
+2022-03-06,CE-Contracts,0,0,0,0.02
+2022-03-06,EST-Estimating,0,1,0,0.025
+2022-03-06,EVM-Earned Value,0,1,1,0.03
+2022-03-06,PC-Production Control,0,8,0,0.22125
+2022-03-06,PM-Program Management,0,9,0,0.2675
+2022-03-06,QAQC-Quality,0,0,0,0.00125
+2022-03-06,SCM-Supply Chain,13,41,6,1.03
+2022-03-13,800A-Administration,0,153,0,3.88375
+2022-03-13,800E-Electrical-Eng,0,138,0,3.605
+2022-03-13,800H-Structures,0,126,0,3.38875
+2022-03-13,800M-Mechanical,0,151,0,3.905
+2022-03-13,800X-ILS,0,4,0,0.1025
+2022-03-13,930L-Tests & Trials,0,0,0,0.01375
+2022-03-13,CE-Contracts,0,0,0,0.02
+2022-03-13,EST-Estimating,0,1,0,0.025
+2022-03-13,EVM-Earned Value,0,1,0,0.0325
+2022-03-13,PC-Production Control,0,8,0,0.22125
+2022-03-13,PM-Program Management,0,9,0,0.2675
+2022-03-13,QAQC-Quality,0,0,0,0.00125
+2022-03-13,SCM-Supply Chain,21,41,9,1.03
+2022-03-20,800A-Administration,0,153,0,3.88375
+2022-03-20,800E-Electrical-Eng,0,138,0,3.605
+2022-03-20,800H-Structures,0,126,0,3.38875
+2022-03-20,800M-Mechanical,0,151,0,3.905
+2022-03-20,800X-ILS,0,4,0,0.1025
+2022-03-20,930L-Tests & Trials,0,0,0,0.01375
+2022-03-20,CE-Contracts,0,0,0,0.02
+2022-03-20,EST-Estimating,0,1,0,0.025
+2022-03-20,EVM-Earned Value,1,1,1,0.03
+2022-03-20,PC-Production Control,0,8,0,0.22125
+2022-03-20,PM-Program Management,0,9,0,0.2675
+2022-03-20,QAQC-Quality,0,0,0,0.00125
+2022-03-20,SCM-Supply Chain,21,41,9,1.03
+2022-03-27,800A-Administration,0,99,0,2.5275
+2022-03-27,800E-Electrical-Eng,0,138,0,3.605
+2022-03-27,800H-Structures,0,126,0,3.38875
+2022-03-27,800M-Mechanical,0,151,0,3.905
+2022-03-27,800X-ILS,0,4,0,0.1025
+2022-03-27,930L-Tests & Trials,0,0,0,0.01375
+2022-03-27,CE-Contracts,0,0,0,0.02
+2022-03-27,EST-Estimating,0,1,0,0.025
+2022-03-27,EVM-Earned Value,1,1,1,0.03
+2022-03-27,PC-Production Control,0,8,0,0.22125
+2022-03-27,PM-Program Management,0,9,0,0.2675
+2022-03-27,QAQC-Quality,0,0,0,0.00125
+2022-03-27,SCM-Supply Chain,37,41,10,1.03
+2022-04-03,800A-Administration,0,103,0,2.6275
+2022-04-03,800E-Electrical-Eng,0,138,0,3.605
+2022-04-03,800H-Structures,0,126,0,3.38875
+2022-04-03,800M-Mechanical,0,151,0,3.905
+2022-04-03,800X-ILS,0,4,0,0.1025
+2022-04-03,930L-Tests & Trials,0,0,0,0.01375
+2022-04-03,CE-Contracts,0,0,0,0.02
+2022-04-03,EST-Estimating,0,1,0,0.025
+2022-04-03,EVM-Earned Value,0,1,0,0.0325
+2022-04-03,PC-Production Control,0,8,0,0.22125
+2022-04-03,PM-Program Management,0,9,0,0.2675
+2022-04-03,QAQC-Quality,0,0,0,0.00125
+2022-04-03,SCM-Supply Chain,23,41,9,1.03
+2022-04-10,800A-Administration,0,4,0,0.1
+2022-04-10,800E-Electrical-Eng,0,18,0,0.5525
+2022-04-10,800H-Structures,0,126,0,3.38875
+2022-04-10,800M-Mechanical,0,79,0,2.09625
+2022-04-10,930L-Tests & Trials,0,0,0,0.01375
+2022-04-10,CE-Contracts,1,0,1,0.02
+2022-04-10,EST-Estimating,0,1,0,0.025
+2022-04-10,EVM-Earned Value,0,1,0,0.0325
+2022-04-10,PC-Production Control,0,8,0,0.22125
+2022-04-10,PM-Program Management,0,9,0,0.2675
+2022-04-10,QAQC-Quality,0,0,0,0.00125
+2022-04-10,SCM-Supply Chain,31,41,8,1.03
+2022-04-17,800E-Electrical-Eng,0,18,0,0.55375
+2022-04-17,800H-Structures,0,126,0,3.38875
+2022-04-17,800M-Mechanical,0,79,0,2.09625
+2022-04-17,930L-Tests & Trials,0,0,0,0.01375
+2022-04-17,CE-Contracts,0,0,0,0.02
+2022-04-17,EST-Estimating,0,1,0,0.025
+2022-04-17,EVM-Earned Value,0,1,0,0.0325
+2022-04-17,PC-Production Control,0,8,0,0.22125
+2022-04-17,PM-Program Management,0,9,0,0.2675
+2022-04-17,QAQC-Quality,0,0,0,0.00125
+2022-04-17,SCM-Supply Chain,29,41,10,1.03
+2022-04-24,800E-Electrical-Eng,0,18,0,0.55375
+2022-04-24,800H-Structures,0,126,0,3.38875
+2022-04-24,800M-Mechanical,0,79,0,2.09625
+2022-04-24,930L-Tests & Trials,0,0,0,0.01375
+2022-04-24,CE-Contracts,0,0,0,0.02
+2022-04-24,EST-Estimating,0,1,0,0.025
+2022-04-24,EVM-Earned Value,0,1,0,0.0325
+2022-04-24,PC-Production Control,0,8,0,0.22125
+2022-04-24,PM-Program Management,0,9,0,0.2675
+2022-04-24,QAQC-Quality,0,0,0,0.00125
+2022-04-24,SCM-Supply Chain,31,41,11,1.03
+2022-05-01,800E-Electrical-Eng,0,18,0,0.55375
+2022-05-01,800H-Structures,0,118,0,3.16625
+2022-05-01,800M-Mechanical,0,79,0,2.09625
+2022-05-01,930L-Tests & Trials,0,0,0,0.01375
+2022-05-01,CE-Contracts,0,0,0,0.02
+2022-05-01,EST-Estimating,0,1,0,0.025
+2022-05-01,EVM-Earned Value,0,1,0,0.0325
+2022-05-01,PC-Production Control,0,8,0,0.22125
+2022-05-01,PM-Program Management,0,9,0,0.2675
+2022-05-01,QAQC-Quality,0,0,0,0.00125
+2022-05-01,SCM-Supply Chain,36,41,9,1.03
+2022-05-08,800E-Electrical-Eng,0,18,0,0.55375
+2022-05-08,800H-Structures,0,107,0,2.86625
+2022-05-08,800M-Mechanical,0,79,0,2.09625
+2022-05-08,930L-Tests & Trials,0,0,0,0.01375
+2022-05-08,CE-Contracts,0,0,0,0.02
+2022-05-08,EST-Estimating,0,1,0,0.025
+2022-05-08,EVM-Earned Value,0,1,0,0.0325
+2022-05-08,PC-Production Control,0,8,0,0.22125
+2022-05-08,PM-Program Management,0,9,0,0.2675
+2022-05-08,QAQC-Quality,0,0,0,0.00125
+2022-05-08,SCM-Supply Chain,25,41,10,1.03
+2022-05-15,800E-Electrical-Eng,0,18,0,0.55375
+2022-05-15,800H-Structures,0,105,0,2.8
+2022-05-15,800M-Mechanical,0,79,0,2.09625
+2022-05-15,930L-Tests & Trials,0,0,0,0.01375
+2022-05-15,CE-Contracts,0,0,0,0.02
+2022-05-15,EST-Estimating,0,1,0,0.025
+2022-05-15,EVM-Earned Value,0,1,0,0.0325
+2022-05-15,PC-Production Control,0,8,0,0.22125
+2022-05-15,PM-Program Management,0,9,0,0.2675
+2022-05-15,QAQC-Quality,0,0,0,0.00125
+2022-05-15,SCM-Supply Chain,13,41,8,1.03
+2022-05-22,800E-Electrical-Eng,0,18,0,0.55375
+2022-05-22,800H-Structures,0,105,0,2.8
+2022-05-22,800M-Mechanical,0,79,0,2.09625
+2022-05-22,930L-Tests & Trials,0,0,0,0.01375
+2022-05-22,CE-Contracts,0,0,0,0.02
+2022-05-22,EST-Estimating,0,1,0,0.025
+2022-05-22,EVM-Earned Value,0,1,0,0.0325
+2022-05-22,PC-Production Control,0,8,0,0.22125
+2022-05-22,PM-Program Management,0,9,0,0.2675
+2022-05-22,QAQC-Quality,0,0,0,0.00125
+2022-05-22,SCM-Supply Chain,16,41,5,1.03
+2022-05-29,800E-Electrical-Eng,0,18,0,0.55375
+2022-05-29,800H-Structures,0,105,0,2.8
+2022-05-29,800M-Mechanical,0,79,0,2.09625
+2022-05-29,930L-Tests & Trials,0,0,0,0.01375
+2022-05-29,CE-Contracts,0,0,0,0.02
+2022-05-29,EST-Estimating,0,1,0,0.025
+2022-05-29,EVM-Earned Value,0,1,0,0.0325
+2022-05-29,PC-Production Control,0,8,0,0.22125
+2022-05-29,PM-Program Management,0,9,0,0.2675
+2022-05-29,QAQC-Quality,0,0,0,0.00125
+2022-05-29,SCM-Supply Chain,15,41,7,1.03
+2022-06-05,800E-Electrical-Eng,0,18,0,0.55375
+2022-06-05,800H-Structures,0,105,0,2.8
+2022-06-05,800M-Mechanical,0,79,0,2.09625
+2022-06-05,930L-Tests & Trials,0,0,0,0.01375
+2022-06-05,CE-Contracts,0,0,0,0.02
+2022-06-05,EST-Estimating,0,1,0,0.025
+2022-06-05,EVM-Earned Value,1,1,1,0.03
+2022-06-05,PC-Production Control,0,8,0,0.22125
+2022-06-05,PM-Program Management,0,9,0,0.2675
+2022-06-05,QAQC-Quality,0,0,0,0.00125
+2022-06-05,SCM-Supply Chain,25,41,11,1.03
+2022-06-12,800E-Electrical-Eng,0,18,0,0.55375
+2022-06-12,800H-Structures,0,105,0,2.8
+2022-06-12,800M-Mechanical,0,79,0,2.09625
+2022-06-12,930L-Tests & Trials,0,0,0,0.01375
+2022-06-12,CE-Contracts,0,0,0,0.02
+2022-06-12,EST-Estimating,0,1,0,0.025
+2022-06-12,EVM-Earned Value,0,1,0,0.0325
+2022-06-12,PC-Production Control,1,7,1,0.18
+2022-06-12,PM-Program Management,3,2,1,0.06
+2022-06-12,QAQC-Quality,0,0,0,0.00125
+2022-06-12,SCM-Supply Chain,30,41,12,1.03
+2022-06-19,800E-Electrical-Eng,16,0,1,0.02
+2022-06-19,800H-Structures,0,105,0,2.8
+2022-06-19,800M-Mechanical,0,79,0,2.09625
+2022-06-19,930L-Tests & Trials,0,0,0,0.01375
+2022-06-19,CE-Contracts,0,0,0,0.02
+2022-06-19,EST-Estimating,0,1,0,0.025
+2022-06-19,EVM-Earned Value,1,1,2,0.03
+2022-06-19,PC-Production Control,0,8,0,0.22125
+2022-06-19,PM-Program Management,1,2,1,0.06
+2022-06-19,QAQC-Quality,0,0,0,0.00125
+2022-06-19,SCM-Supply Chain,28,41,9,1.03
+2022-06-26,800E-Electrical-Eng,0,8,0,0.2825
+2022-06-26,800H-Structures,0,105,0,2.8
+2022-06-26,800M-Mechanical,0,79,0,2.09625
+2022-06-26,930L-Tests & Trials,0,0,0,0.01375
+2022-06-26,CE-Contracts,0,0,0,0.02
+2022-06-26,EST-Estimating,0,1,0,0.025
+2022-06-26,EVM-Earned Value,1,1,2,0.03
+2022-06-26,PC-Production Control,0,8,0,0.22125
+2022-06-26,PM-Program Management,0,9,0,0.2675
+2022-06-26,QAQC-Quality,0,0,0,0.00125
+2022-06-26,SCM-Supply Chain,30,41,12,1.03
+2022-07-03,800E-Electrical-Eng,0,8,0,0.2825
+2022-07-03,800H-Structures,0,98,0,2.5775
+2022-07-03,800M-Mechanical,0,79,0,2.09625
+2022-07-03,930L-Tests & Trials,0,0,0,0.01375
+2022-07-03,CE-Contracts,0,0,0,0.02
+2022-07-03,EST-Estimating,0,1,0,0.025
+2022-07-03,EVM-Earned Value,1,1,2,0.03
+2022-07-03,PC-Production Control,0,8,0,0.22125
+2022-07-03,PM-Program Management,1,2,1,0.06
+2022-07-03,QAQC-Quality,0,0,0,0.00125
+2022-07-03,SCM-Supply Chain,27,41,13,1.03
+2022-07-10,800E-Electrical-Eng,0,8,0,0.2825
+2022-07-10,800H-Structures,0,88,0,2.2975
+2022-07-10,800M-Mechanical,0,79,0,2.09625
+2022-07-10,930L-Tests & Trials,0,0,0,0.01375
+2022-07-10,CE-Contracts,0,0,0,0.02
+2022-07-10,EST-Estimating,0,1,0,0.025
+2022-07-10,EVM-Earned Value,0,1,1,0.03
+2022-07-10,PC-Production Control,0,8,0,0.22125
+2022-07-10,PM-Program Management,0,9,0,0.2675
+2022-07-10,QAQC-Quality,0,0,0,0.00125
+2022-07-10,SCM-Supply Chain,35,41,14,1.03
+2022-07-17,800E-Electrical-Eng,0,8,0,0.25125
+2022-07-17,800H-Structures,0,88,0,2.2975
+2022-07-17,800M-Mechanical,0,79,0,2.09625
+2022-07-17,930L-Tests & Trials,0,0,0,0.01375
+2022-07-17,CE-Contracts,0,0,0,0.02
+2022-07-17,EST-Estimating,0,1,0,0.025
+2022-07-17,EVM-Earned Value,1,1,2,0.03
+2022-07-17,PC-Production Control,0,8,0,0.22125
+2022-07-17,PM-Program Management,0,9,0,0.2675
+2022-07-17,QAQC-Quality,0,0,0,0.00125
+2022-07-17,SCM-Supply Chain,51,41,15,1.03
+2022-07-24,800E-Electrical-Eng,0,8,0,0.2525
+2022-07-24,800H-Structures,0,88,0,2.2975
+2022-07-24,800M-Mechanical,0,79,0,2.09625
+2022-07-24,930L-Tests & Trials,0,0,0,0.01375
+2022-07-24,CE-Contracts,0,0,0,0.02
+2022-07-24,EST-Estimating,0,1,0,0.025
+2022-07-24,EVM-Earned Value,0,1,0,0.0325
+2022-07-24,PC-Production Control,0,8,0,0.22125
+2022-07-24,PM-Program Management,3,2,1,0.06
+2022-07-24,QAQC-Quality,0,0,0,0.00125
+2022-07-24,SCM-Supply Chain,55,41,14,1.03
+2022-07-31,800E-Electrical-Eng,0,8,0,0.2525
+2022-07-31,800H-Structures,0,88,0,2.30875
+2022-07-31,800M-Mechanical,0,79,0,2.09625
+2022-07-31,930L-Tests & Trials,0,0,0,0.01375
+2022-07-31,CE-Contracts,1,0,1,0.02
+2022-07-31,EST-Estimating,0,1,0,0.025
+2022-07-31,EVM-Earned Value,3,1,2,0.03
+2022-07-31,PC-Production Control,0,8,0,0.22125
+2022-07-31,PM-Program Management,0,9,0,0.2675
+2022-07-31,QAQC-Quality,0,0,0,0.00125
+2022-07-31,SCM-Supply Chain,32,41,14,1.03
+2022-08-07,800E-Electrical-Eng,0,8,0,0.25125
+2022-08-07,800H-Structures,0,88,0,2.28875
+2022-08-07,800M-Mechanical,0,79,0,2.09625
+2022-08-07,930L-Tests & Trials,0,0,0,0.01375
+2022-08-07,CE-Contracts,0,0,0,0.02
+2022-08-07,EST-Estimating,0,1,0,0.025
+2022-08-07,EVM-Earned Value,0,1,1,0.03
+2022-08-07,PC-Production Control,0,8,0,0.22125
+2022-08-07,PM-Program Management,2,2,1,0.06
+2022-08-07,QAQC-Quality,0,0,0,0.00125
+2022-08-07,SCM-Supply Chain,49,41,13,1.03
+2022-08-14,800E-Electrical-Eng,0,8,0,0.25125
+2022-08-14,800H-Structures,0,86,0,2.225
+2022-08-14,800M-Mechanical,0,51,0,1.37125
+2022-08-14,930L-Tests & Trials,0,0,0,0.01375
+2022-08-14,CE-Contracts,1,0,1,0.02
+2022-08-14,EST-Estimating,0,1,0,0.025
+2022-08-14,EVM-Earned Value,0,1,1,0.03
+2022-08-14,PC-Production Control,0,8,0,0.22125
+2022-08-14,PM-Program Management,1,2,1,0.06
+2022-08-14,QAQC-Quality,0,0,0,0.00125
+2022-08-14,SCM-Supply Chain,56,41,14,1.03
+2022-08-21,800E-Electrical-Eng,0,8,0,0.2525
+2022-08-21,800H-Structures,0,86,0,2.225
+2022-08-21,800M-Mechanical,0,47,0,1.26125
+2022-08-21,930L-Tests & Trials,0,0,0,0.01375
+2022-08-21,CE-Contracts,1,0,1,0.02
+2022-08-21,EST-Estimating,0,1,0,0.025
+2022-08-21,EVM-Earned Value,0,1,1,0.03
+2022-08-21,PC-Production Control,0,8,0,0.22125
+2022-08-21,PM-Program Management,2,2,1,0.06
+2022-08-21,QAQC-Quality,0,0,0,0.00125
+2022-08-21,SCM-Supply Chain,59,41,16,1.03
+2022-08-28,800E-Electrical-Eng,0,0,0,0.04
+2022-08-28,800H-Structures,0,86,0,2.21625
+2022-08-28,800M-Mechanical,0,8,0,0.27375
+2022-08-28,930L-Tests & Trials,0,0,0,0.01375
+2022-08-28,CE-Contracts,2,0,1,0.02
+2022-08-28,EST-Estimating,0,1,0,0.025
+2022-08-28,EVM-Earned Value,1,1,1,0.03
+2022-08-28,PC-Production Control,0,8,0,0.22125
+2022-08-28,PM-Program Management,2,2,1,0.06
+2022-08-28,QAQC-Quality,0,0,0,0.00125
+2022-08-28,SCM-Supply Chain,81,41,17,1.03
+2022-09-04,800E-Electrical-Eng,0,0,0,0.0025
+2022-09-04,800H-Structures,0,84,0,2.14375
+2022-09-04,800M-Mechanical,0,8,0,0.27375
+2022-09-04,930L-Tests & Trials,0,0,0,0.01375
+2022-09-04,CE-Contracts,1,0,1,0.02
+2022-09-04,EST-Estimating,0,1,0,0.025
+2022-09-04,EVM-Earned Value,1,1,1,0.03
+2022-09-04,PC-Production Control,0,8,0,0.22125
+2022-09-04,PM-Program Management,1,2,1,0.06
+2022-09-04,QAQC-Quality,0,0,0,0.00125
+2022-09-04,SCM-Supply Chain,73,41,16,1.03
+2022-09-11,800E-Electrical-Eng,0,0,0,0.00375
+2022-09-11,800H-Structures,0,1,0,0.05625
+2022-09-11,800M-Mechanical,0,8,0,0.27375
+2022-09-11,930L-Tests & Trials,0,0,0,0.01375
+2022-09-11,CE-Contracts,3,0,1,0.02
+2022-09-11,EST-Estimating,0,1,0,0.025
+2022-09-11,EVM-Earned Value,0,1,1,0.03
+2022-09-11,PC-Production Control,2,7,2,0.18
+2022-09-11,PM-Program Management,2,2,1,0.06
+2022-09-11,QAQC-Quality,0,0,0,0.00125
+2022-09-11,SCM-Supply Chain,74,41,16,1.03
+2022-09-18,800E-Electrical-Eng,0,0,0,0.00375
+2022-09-18,800H-Structures,0,1,0,0.05625
+2022-09-18,800M-Mechanical,0,8,0,0.26
+2022-09-18,930L-Tests & Trials,0,0,0,0.01375
+2022-09-18,CE-Contracts,0,0,0,0.02
+2022-09-18,EST-Estimating,0,1,0,0.025
+2022-09-18,EVM-Earned Value,1,1,1,0.03
+2022-09-18,PC-Production Control,7,7,2,0.18
+2022-09-18,PM-Program Management,2,2,1,0.06
+2022-09-18,QAQC-Quality,0,0,0,0.00125
+2022-09-18,SCM-Supply Chain,72,41,15,1.03
+2022-09-25,800E-Electrical-Eng,0,0,0,0.00375
+2022-09-25,800H-Structures,0,1,0,0.05625
+2022-09-25,800M-Mechanical,0,8,0,0.24625
+2022-09-25,930L-Tests & Trials,0,0,0,0.01375
+2022-09-25,CE-Contracts,0,0,0,0.02
+2022-09-25,EST-Estimating,0,1,0,0.025
+2022-09-25,EVM-Earned Value,1,1,1,0.03
+2022-09-25,PC-Production Control,3,7,1,0.18
+2022-09-25,PM-Program Management,2,2,1,0.06
+2022-09-25,QAQC-Quality,0,0,0,0.00125
+2022-09-25,SCM-Supply Chain,73,41,18,1.03
+2022-10-02,800E-Electrical-Eng,0,0,0,0.00375
+2022-10-02,800H-Structures,0,1,0,0.05625
+2022-10-02,800M-Mechanical,0,8,0,0.24625
+2022-10-02,930L-Tests & Trials,0,0,0,0.01375
+2022-10-02,CE-Contracts,0,0,0,0.02
+2022-10-02,EST-Estimating,0,1,0,0.025
+2022-10-02,EVM-Earned Value,0,1,0,0.0325
+2022-10-02,PC-Production Control,6,7,1,0.18
+2022-10-02,PM-Program Management,5,2,1,0.06
+2022-10-02,QAQC-Quality,0,0,0,0.00125
+2022-10-02,SCM-Supply Chain,65,41,19,1.03
+2022-10-09,800E-Electrical-Eng,0,0,0,0.00375
+2022-10-09,800H-Structures,0,0,0,0.01125
+2022-10-09,930L-Tests & Trials,0,0,0,0.01375
+2022-10-09,CE-Contracts,0,0,0,0.02
+2022-10-09,EST-Estimating,0,1,0,0.025
+2022-10-09,EVM-Earned Value,0,1,1,0.03
+2022-10-09,PC-Production Control,28,7,4,0.18
+2022-10-09,PM-Program Management,1,2,1,0.06
+2022-10-09,QAQC-Quality,0,0,0,0.00125
+2022-10-09,SCM-Supply Chain,84,41,20,1.03
+2022-10-16,800E-Electrical-Eng,0,0,0,0.00375
+2022-10-16,800H-Structures,0,0,0,0.01125
+2022-10-16,930L-Tests & Trials,0,0,0,0.01375
+2022-10-16,CE-Contracts,0,0,0,0.02
+2022-10-16,EST-Estimating,0,1,0,0.025
+2022-10-16,EVM-Earned Value,1,1,1,0.03
+2022-10-16,PC-Production Control,11,7,4,0.18
+2022-10-16,PM-Program Management,1,2,1,0.06
+2022-10-16,QAQC-Quality,0,0,0,0.00125
+2022-10-16,SCM-Supply Chain,87,41,20,1.03
+2022-10-23,800E-Electrical-Eng,0,0,0,0.00375
+2022-10-23,800H-Structures,0,0,0,0.01125
+2022-10-23,930L-Tests & Trials,0,0,0,0.01375
+2022-10-23,CE-Contracts,0,0,0,0.02
+2022-10-23,EST-Estimating,0,1,0,0.025
+2022-10-23,EVM-Earned Value,1,1,2,0.03
+2022-10-23,PC-Production Control,54,7,7,0.18
+2022-10-23,PM-Program Management,0,9,0,0.2675
+2022-10-23,QAQC-Quality,0,0,0,0.00125
+2022-10-23,SCM-Supply Chain,63,41,15,1.03
+2022-10-30,800E-Electrical-Eng,0,0,0,0.00375
+2022-10-30,800H-Structures,0,0,0,0.01125
+2022-10-30,930L-Tests & Trials,0,0,0,0.01375
+2022-10-30,CE-Contracts,5,0,2,0.02
+2022-10-30,EST-Estimating,0,1,0,0.025
+2022-10-30,EVM-Earned Value,1,1,2,0.03
+2022-10-30,PC-Production Control,57,7,6,0.18
+2022-10-30,PM-Program Management,0,2,1,0.06
+2022-10-30,QAQC-Quality,0,0,0,0.00125
+2022-10-30,SCM-Supply Chain,51,41,15,1.03
+2022-11-06,800E-Electrical-Eng,0,0,0,0.00375
+2022-11-06,800H-Structures,0,0,0,0.01125
+2022-11-06,930L-Tests & Trials,0,0,0,0.01375
+2022-11-06,CE-Contracts,2,0,1,0.02
+2022-11-06,EST-Estimating,0,1,0,0.025
+2022-11-06,EVM-Earned Value,4,1,4,0.03
+2022-11-06,PC-Production Control,80,7,5,0.18
+2022-11-06,PM-Program Management,0,9,0,0.2675
+2022-11-06,QAQC-Quality,0,0,0,0.00125
+2022-11-06,SCM-Supply Chain,62,41,17,1.03
+2022-11-13,800E-Electrical-Eng,0,0,0,0.00375
+2022-11-13,800H-Structures,0,0,0,0.01125
+2022-11-13,930L-Tests & Trials,0,0,0,0.01375
+2022-11-13,CE-Contracts,2,0,2,0.02
+2022-11-13,EST-Estimating,0,1,0,0.025
+2022-11-13,EVM-Earned Value,3,1,4,0.03
+2022-11-13,PC-Production Control,76,7,9,0.18
+2022-11-13,PM-Program Management,1,2,1,0.06
+2022-11-13,QAQC-Quality,0,0,0,0.00125
+2022-11-13,SCM-Supply Chain,61,41,17,1.03
+2022-11-20,800E-Electrical-Eng,0,0,0,0.0025
+2022-11-20,800H-Structures,0,0,0,0.01125
+2022-11-20,930L-Tests & Trials,0,0,0,0.01375
+2022-11-20,CE-Contracts,1,0,1,0.02
+2022-11-20,EST-Estimating,0,1,0,0.025
+2022-11-20,EVM-Earned Value,14,1,4,0.03
+2022-11-20,PC-Production Control,82,7,5,0.18
+2022-11-20,PM-Program Management,0,2,1,0.06
+2022-11-20,QAQC-Quality,0,0,0,0.00125
+2022-11-20,SCM-Supply Chain,87,41,16,1.03
+2022-11-27,800E-Electrical-Eng,0,0,0,0.0025
+2022-11-27,800H-Structures,0,0,0,0.01125
+2022-11-27,930L-Tests & Trials,0,0,0,0.01375
+2022-11-27,CE-Contracts,2,0,1,0.02
+2022-11-27,EST-Estimating,0,1,0,0.025
+2022-11-27,EVM-Earned Value,9,1,3,0.03
+2022-11-27,PC-Production Control,17,7,2,0.18
+2022-11-27,PM-Program Management,7,2,2,0.06
+2022-11-27,QAQC-Quality,0,0,0,0.00125
+2022-11-27,SCM-Supply Chain,52,41,16,1.03
+2022-12-04,800E-Electrical-Eng,0,0,0,0.0025
+2022-12-04,800H-Structures,0,10,0,0.28875
+2022-12-04,930L-Tests & Trials,0,0,0,0.01375
+2022-12-04,CE-Contracts,0,0,0,0.02
+2022-12-04,EST-Estimating,0,1,0,0.025
+2022-12-04,EVM-Earned Value,15,1,5,0.03
+2022-12-04,PC-Production Control,61,7,9,0.18
+2022-12-04,PM-Program Management,3,2,2,0.06
+2022-12-04,QAQC-Quality,0,0,0,0.00125
+2022-12-04,SCM-Supply Chain,75,41,17,1.03
+2022-12-11,800E-Electrical-Eng,0,0,0,0.0025
+2022-12-11,800H-Structures,1,0,1,1
+2022-12-11,930L-Tests & Trials,0,0,0,0.01375
+2022-12-11,CE-Contracts,3,0,2,0.02
+2022-12-11,EST-Estimating,0,1,0,0.025
+2022-12-11,EVM-Earned Value,14,1,6,0.03
+2022-12-11,PC-Production Control,52,7,6,0.18
+2022-12-11,PM-Program Management,0,2,1,0.06
+2022-12-11,QAQC-Quality,0,0,0,0.00125
+2022-12-11,SCM-Supply Chain,69,41,19,1.03
+2022-12-18,800E-Electrical-Eng,0,0,0,0.0025
+2022-12-18,800H-Structures,20,0,2,1
+2022-12-18,930L-Tests & Trials,0,0,0,0.01375
+2022-12-18,CE-Contracts,5,0,1,0.02
+2022-12-18,EST-Estimating,0,1,0,0.025
+2022-12-18,EVM-Earned Value,13,1,5,0.03
+2022-12-18,PC-Production Control,71,7,5,0.18
+2022-12-18,PM-Program Management,2,2,2,0.06
+2022-12-18,QAQC-Quality,0,0,0,0.00125
+2022-12-18,SCM-Supply Chain,74,41,19,1.03
+2022-12-25,800E-Electrical-Eng,0,0,0,0.0025
+2022-12-25,800H-Structures,0,10,0,0.28875
+2022-12-25,930L-Tests & Trials,0,0,0,0.01375
+2022-12-25,CE-Contracts,1,0,1,0.02
+2022-12-25,EST-Estimating,0,1,0,0.025
+2022-12-25,EVM-Earned Value,8,1,4,0.03
+2022-12-25,PC-Production Control,70,7,4,0.18
+2022-12-25,PM-Program Management,2,2,1,0.06
+2022-12-25,QAQC-Quality,0,0,0,0.00125
+2022-12-25,SCM-Supply Chain,61,41,17,1.03
+2023-01-01,800E-Electrical-Eng,0,0,0,0.0025
+2023-01-01,800H-Structures,0,10,0,0.2775
+2023-01-01,930L-Tests & Trials,0,0,0,0.01375
+2023-01-01,CE-Contracts,0,0,0,0.02
+2023-01-01,EST-Estimating,0,1,0,0.025
+2023-01-01,EVM-Earned Value,0,1,0,0.0325
+2023-01-01,PC-Production Control,0,8,0,0.22125
+2023-01-01,PM-Program Management,0,9,0,0.2675
+2023-01-01,QAQC-Quality,0,0,0,0.00125
+2023-01-01,SCM-Supply Chain,0,41,0,1.03
+2023-01-08,800A-Administration,7,2,4,0.1
+2023-01-08,800E-Electrical-Eng,0,24,0,0.62
+2023-01-08,800H-Structures,0,22,0,0.5975
+2023-01-08,800M-Mechanical,0,51,0,1.3475
+2023-01-08,800X-ILS,0,3,0,0.09625
+2023-01-08,930L-Tests & Trials,0,0,0,0.01375
+2023-01-08,CE-Contracts,4,0,2,0.02
+2023-01-08,EST-Estimating,0,1,0,0.025
+2023-01-08,EVM-Earned Value,11,1,3,0.03
+2023-01-08,PC-Production Control,67,7,6,0.18
+2023-01-08,PM-Program Management,12,2,2,0.06
+2023-01-08,QAQC-Quality,0,0,0,0.00125
+2023-01-08,SCM-Supply Chain,73,41,15,1.03
+2023-01-15,800A-Administration,14,20,3,0.56
+2023-01-15,800E-Electrical-Eng,0,18,0,0.46375
+2023-01-15,800H-Structures,135,0,4,1
+2023-01-15,800M-Mechanical,0,51,0,1.3475
+2023-01-15,800X-ILS,0,3,0,0.09625
+2023-01-15,930L-Tests & Trials,0,0,0,0.01375
+2023-01-15,CE-Contracts,4,0,2,0.02
+2023-01-15,EST-Estimating,0,1,0,0.025
+2023-01-15,EVM-Earned Value,17,1,4,0.03
+2023-01-15,PC-Production Control,110,7,7,0.18
+2023-01-15,PM-Program Management,11,2,2,0.06
+2023-01-15,QAQC-Quality,0,0,0,0.00125
+2023-01-15,SCM-Supply Chain,97,41,18,1.03
+2023-01-22,100T-Steel,0,25,0,0.625
+2023-01-22,800A-Administration,61,21,9,0.61
+2023-01-22,800E-Electrical-Eng,0,18,0,0.4625
+2023-01-22,800H-Structures,171,8,6,1.22
+2023-01-22,800M-Mechanical,0,51,0,1.3475
+2023-01-22,800X-ILS,0,3,0,0.09625
+2023-01-22,930L-Tests & Trials,0,0,0,0.01375
+2023-01-22,CE-Contracts,3,0,1,0.02
+2023-01-22,EST-Estimating,0,1,0,0.025
+2023-01-22,EVM-Earned Value,6,1,4,0.03
+2023-01-22,PC-Production Control,114,7,8,0.18
+2023-01-22,PM-Program Management,10,2,2,0.06
+2023-01-22,QAQC-Quality,0,0,0,0.00125
+2023-01-22,SCM-Supply Chain,97,41,20,1.03
+2023-01-29,100T-Steel,0,106,0,2.65625
+2023-01-29,800A-Administration,25,21,8,0.61
+2023-01-29,800E-Electrical-Eng,0,18,0,0.4625
+2023-01-29,800H-Structures,213,10,9,1.28
+2023-01-29,800M-Mechanical,168,19,11,0.48
+2023-01-29,800X-ILS,0,3,0,0.09625
+2023-01-29,930L-Tests & Trials,0,0,0,0.01375
+2023-01-29,CE-Contracts,2,0,2,0.02
+2023-01-29,EST-Estimating,0,1,0,0.025
+2023-01-29,EVM-Earned Value,15,1,4,0.03
+2023-01-29,PC-Production Control,52,7,8,0.18
+2023-01-29,PM-Program Management,7,2,2,0.06
+2023-01-29,QAQC-Quality,0,0,0,0.00125
+2023-01-29,SCM-Supply Chain,101,41,20,1.03
+2023-02-05,100S-Aluminum,0,253,0,6.34125
+2023-02-05,100T-Steel,98,32,4,0.81
+2023-02-05,200S-Machinist,0,19,0,0.48
+2023-02-05,300S-Electrical,0,45,0,1.1275
+2023-02-05,500S-Pipe-Mech,0,102,0,2.57
+2023-02-05,600S-Fitout,0,25,0,0.645
+2023-02-05,800A-Administration,27,21,8,0.61
+2023-02-05,800E-Electrical-Eng,0,18,0,0.4625
+2023-02-05,800H-Structures,165,0,6,1.22
+2023-02-05,800M-Mechanical,368,19,15,0.48
+2023-02-05,800X-ILS,0,3,0,0.09625
+2023-02-05,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-02-05,920L-Cleaning & Yard,0,65,0,1.63625
+2023-02-05,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-02-05,CE-Contracts,2,0,2,0.02
+2023-02-05,CRR-Crane & Rigging,0,67,0,1.68125
+2023-02-05,EST-Estimating,0,1,0,0.0375
+2023-02-05,EVM-Earned Value,15,19,4,0.5
+2023-02-05,PC-Production Control,63,100,9,2.52
+2023-02-05,PM-Program Management,5,65,3,1.67
+2023-02-05,QAQC-Quality,0,80,0,2.01875
+2023-02-05,SCM-Supply Chain,115,100,24,3.55
+2023-02-05,STR-Stores,0,81,0,2.03875
+2023-02-12,100S-Aluminum,22,253,1,1
+2023-02-12,100T-Steel,176,202,13,8.1
+2023-02-12,200S-Machinist,0,19,0,0.48
+2023-02-12,300S-Electrical,0,45,0,1.1275
+2023-02-12,500S-Pipe-Mech,0,102,0,2.57
+2023-02-12,600S-Fitout,0,25,0,0.645
+2023-02-12,800A-Administration,26,3,7,0.15
+2023-02-12,800E-Electrical-Eng,0,18,0,0.46125
+2023-02-12,800H-Structures,218,0,8,1.22
+2023-02-12,800M-Mechanical,336,0,19,0
+2023-02-12,800X-ILS,0,3,0,0.09625
+2023-02-12,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-02-12,920L-Cleaning & Yard,52,65,1,1
+2023-02-12,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-02-12,CE-Contracts,1,17,1,0.44
+2023-02-12,CRR-Crane & Rigging,63,67,1,1
+2023-02-12,EST-Estimating,0,1,0,0.0375
+2023-02-12,EVM-Earned Value,10,19,3,0.5
+2023-02-12,PC-Production Control,49,100,7,2.52
+2023-02-12,PM-Program Management,3,21,1,0.55
+2023-02-12,QAQC-Quality,0,80,0,2.01875
+2023-02-12,SCM-Supply Chain,80,100,19,2.52
+2023-02-12,STR-Stores,63,56,1,1
+2023-02-19,100S-Aluminum,20,253,1,1
+2023-02-19,100T-Steel,172,163,10,7.47
+2023-02-19,200L-Machinist,0,6,0,0.15
+2023-02-19,200S-Machinist,0,19,0,0.48
+2023-02-19,300S-Electrical,0,45,0,1.1275
+2023-02-19,500L-Pipe-Mech,0,27,0,0.68875
+2023-02-19,500S-Pipe-Mech,0,102,0,2.57
+2023-02-19,600S-Fitout,0,25,0,0.645
+2023-02-19,800A-Administration,34,21,7,0.61
+2023-02-19,800E-Electrical-Eng,2,6,1,0.15
+2023-02-19,800H-Structures,294,0,11,1.22
+2023-02-19,800M-Mechanical,315,19,14,0.48
+2023-02-19,800X-ILS,0,3,0,0.09625
+2023-02-19,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-02-19,920L-Cleaning & Yard,35,65,1,1
+2023-02-19,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-02-19,CE-Contracts,2,17,1,0.44
+2023-02-19,CRR-Crane & Rigging,44,67,1,1
+2023-02-19,EST-Estimating,0,1,0,0.0375
+2023-02-19,EVM-Earned Value,9,19,4,0.5
+2023-02-19,PC-Production Control,70,100,8,2.52
+2023-02-19,PM-Program Management,8,21,2,0.55
+2023-02-19,QAQC-Quality,0,80,0,2.01875
+2023-02-19,SCM-Supply Chain,106,100,20,2.52
+2023-02-19,STR-Stores,41,56,1,1
+2023-02-26,100S-Aluminum,19,253,1,1
+2023-02-26,100T-Steel,18,0,2,2.94
+2023-02-26,200S-Machinist,0,19,0,0.48
+2023-02-26,300S-Electrical,0,45,0,1.1275
+2023-02-26,500L-Pipe-Mech,0,175,0,4.43875
+2023-02-26,500S-Pipe-Mech,0,102,0,2.57
+2023-02-26,600S-Fitout,0,25,0,0.645
+2023-02-26,800A-Administration,32,21,6,0.61
+2023-02-26,800E-Electrical-Eng,0,18,0,0.46125
+2023-02-26,800H-Structures,430,10,15,1.25
+2023-02-26,800M-Mechanical,401,19,18,0.48
+2023-02-26,800X-ILS,0,3,0,0.09625
+2023-02-26,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-02-26,920L-Cleaning & Yard,34,65,1,1
+2023-02-26,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-02-26,CE-Contracts,2,17,1,0.44
+2023-02-26,CRR-Crane & Rigging,42,67,1,1
+2023-02-26,EST-Estimating,0,1,0,0.0375
+2023-02-26,EVM-Earned Value,6,19,5,0.5
+2023-02-26,PC-Production Control,57,100,8,2.52
+2023-02-26,PM-Program Management,8,21,2,0.55
+2023-02-26,QAQC-Quality,0,80,0,2.01875
+2023-02-26,SCM-Supply Chain,93,100,25,2.52
+2023-02-26,STR-Stores,41,56,1,1
+2023-03-05,100S-Aluminum,51,253,1,1
+2023-03-05,100T-Steel,418,31,27,6.58
+2023-03-05,200S-Machinist,0,19,0,0.48
+2023-03-05,300S-Electrical,0,45,0,1.1275
+2023-03-05,500L-Pipe-Mech,0,213,0,5.4075
+2023-03-05,500S-Pipe-Mech,0,102,0,2.57
+2023-03-05,600S-Fitout,0,25,0,0.645
+2023-03-05,800A-Administration,30,21,9,0.61
+2023-03-05,800E-Electrical-Eng,0,18,0,0.46125
+2023-03-05,800H-Structures,530,12,26,1.59
+2023-03-05,800M-Mechanical,311,19,15,0.48
+2023-03-05,800X-ILS,0,3,0,0.09625
+2023-03-05,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-03-05,920L-Cleaning & Yard,48,65,1,1
+2023-03-05,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-03-05,CE-Contracts,4,17,1,0.44
+2023-03-05,CRR-Crane & Rigging,64,67,1,1
+2023-03-05,EST-Estimating,0,1,0,0.0375
+2023-03-05,EVM-Earned Value,10,19,4,0.5
+2023-03-05,PC-Production Control,137,100,8,2.52
+2023-03-05,PM-Program Management,4,21,2,0.55
+2023-03-05,QAQC-Quality,0,80,0,2.01875
+2023-03-05,SCM-Supply Chain,112,100,27,2.52
+2023-03-05,STR-Stores,62,56,1,1
+2023-03-12,100S-Aluminum,48,253,1,1
+2023-03-12,100T-Steel,813,92,61,14.6
+2023-03-12,200S-Machinist,0,19,0,0.48
+2023-03-12,300S-Electrical,0,45,0,1.1275
+2023-03-12,500L-Pipe-Mech,0,451,0,11.43125
+2023-03-12,500S-Pipe-Mech,0,102,0,2.57
+2023-03-12,600S-Fitout,0,25,0,0.645
+2023-03-12,800A-Administration,36,21,7,0.61
+2023-03-12,800E-Electrical-Eng,0,18,0,0.46125
+2023-03-12,800H-Structures,579,0,26,1.53
+2023-03-12,800M-Mechanical,372,19,19,0.48
+2023-03-12,800X-ILS,0,3,0,0.09625
+2023-03-12,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-03-12,920L-Cleaning & Yard,64,65,1,1
+2023-03-12,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-03-12,CE-Contracts,2,17,1,0.44
+2023-03-12,CRR-Crane & Rigging,82,67,1,1
+2023-03-12,EST-Estimating,0,1,0,0.0375
+2023-03-12,EVM-Earned Value,10,19,6,0.5
+2023-03-12,PC-Production Control,185,100,11,2.52
+2023-03-12,PM-Program Management,3,21,2,0.55
+2023-03-12,QAQC-Quality,0,80,0,2.01875
+2023-03-12,SCM-Supply Chain,136,100,27,2.52
+2023-03-12,STR-Stores,84,56,1,1
+2023-03-19,100S-Aluminum,21,253,1,1
+2023-03-19,100T-Steel,203,31,25,14.36
+2023-03-19,200S-Machinist,0,19,0,0.48
+2023-03-19,300S-Electrical,0,45,0,1.1275
+2023-03-19,500L-Pipe-Mech,0,467,0,11.87375
+2023-03-19,500S-Pipe-Mech,0,102,0,2.57
+2023-03-19,600S-Fitout,0,25,0,0.645
+2023-03-19,800A-Administration,29,21,8,0.61
+2023-03-19,800E-Electrical-Eng,0,18,0,0.46125
+2023-03-19,800H-Structures,839,12,37,2.96
+2023-03-19,800M-Mechanical,263,41,14,1.06
+2023-03-19,800X-ILS,0,3,0,0.09625
+2023-03-19,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-03-19,920L-Cleaning & Yard,53,65,1,1
+2023-03-19,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-03-19,CE-Contracts,2,17,1,0.44
+2023-03-19,CRR-Crane & Rigging,74,67,1,1
+2023-03-19,EST-Estimating,0,1,0,0.0375
+2023-03-19,EVM-Earned Value,5,19,4,0.5
+2023-03-19,PC-Production Control,278,100,13,2.52
+2023-03-19,PM-Program Management,4,21,2,0.55
+2023-03-19,QAQC-Quality,0,80,0,2.01875
+2023-03-19,SCM-Supply Chain,140,100,24,2.52
+2023-03-19,STR-Stores,74,56,1,1
+2023-03-26,100S-Aluminum,37,253,1,1
+2023-03-26,100T-Steel,320,300,26,18.84
+2023-03-26,200S-Machinist,0,19,0,0.48
+2023-03-26,300S-Electrical,0,45,0,1.1275
+2023-03-26,500L-Pipe-Mech,0,699,0,17.73
+2023-03-26,500S-Pipe-Mech,0,102,0,2.57
+2023-03-26,600S-Fitout,0,25,0,0.645
+2023-03-26,800A-Administration,60,21,9,0.61
+2023-03-26,800E-Electrical-Eng,0,18,0,0.46125
+2023-03-26,800H-Structures,717,12,34,1.99
+2023-03-26,800M-Mechanical,272,38,12,0.96
+2023-03-26,800X-ILS,7,3,1,0.1
+2023-03-26,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-03-26,920L-Cleaning & Yard,51,65,1,1
+2023-03-26,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-03-26,CE-Contracts,1,17,1,0.44
+2023-03-26,CRR-Crane & Rigging,71,67,1,1
+2023-03-26,EST-Estimating,0,1,0,0.0375
+2023-03-26,EVM-Earned Value,13,19,6,0.5
+2023-03-26,PC-Production Control,213,100,9,2.52
+2023-03-26,PM-Program Management,6,69,3,1.77
+2023-03-26,QAQC-Quality,0,80,0,2.01875
+2023-03-26,SCM-Supply Chain,124,100,24,2.52
+2023-03-26,STR-Stores,69,56,1,1
+2023-04-02,100S-Aluminum,0,253,0,6.34125
+2023-04-02,100T-Steel,512,0,50,33.27
+2023-04-02,200S-Machinist,0,19,0,0.48
+2023-04-02,300S-Electrical,0,45,0,1.1275
+2023-04-02,500L-Pipe-Mech,4,27,1,0.69
+2023-04-02,500S-Pipe-Mech,0,102,0,2.57
+2023-04-02,600S-Fitout,0,25,0,0.645
+2023-04-02,800A-Administration,71,21,9,0.61
+2023-04-02,800E-Electrical-Eng,51,6,2,0.15
+2023-04-02,800H-Structures,698,0,39,3.4
+2023-04-02,800M-Mechanical,320,19,14,0.48
+2023-04-02,800X-ILS,5,3,1,0.1
+2023-04-02,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-04-02,920L-Cleaning & Yard,53,65,1,1
+2023-04-02,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-04-02,CE-Contracts,2,17,1,0.44
+2023-04-02,CRR-Crane & Rigging,83,67,1,1
+2023-04-02,EST-Estimating,0,1,0,0.0375
+2023-04-02,EVM-Earned Value,8,19,5,0.5
+2023-04-02,PC-Production Control,254,100,12,2.52
+2023-04-02,PM-Program Management,6,21,2,0.55
+2023-04-02,QAQC-Quality,0,80,0,2.01875
+2023-04-02,SCM-Supply Chain,140,100,24,2.52
+2023-04-02,STR-Stores,82,56,1,1
+2023-04-09,100S-Aluminum,86,253,1,1
+2023-04-09,100T-Steel,760,513,78,46.19
+2023-04-09,200S-Machinist,0,19,0,0.48
+2023-04-09,300S-Electrical,0,45,0,1.1275
+2023-04-09,500L-Pipe-Mech,296,41,29,4.49
+2023-04-09,500S-Pipe-Mech,0,102,0,2.57
+2023-04-09,600S-Fitout,0,25,0,0.645
+2023-04-09,800A-Administration,60,21,11,1.17
+2023-04-09,800E-Electrical-Eng,45,9,3,0.23
+2023-04-09,800H-Structures,554,31,40,3.22
+2023-04-09,800M-Mechanical,238,19,12,0.48
+2023-04-09,800X-ILS,6,18,3,0.49
+2023-04-09,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-04-09,920L-Cleaning & Yard,49,65,1,1
+2023-04-09,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-04-09,CE-Contracts,0,17,0,0.43875
+2023-04-09,CRR-Crane & Rigging,91,67,1,1
+2023-04-09,EST-Estimating,0,1,0,0.0375
+2023-04-09,EVM-Earned Value,8,19,6,0.5
+2023-04-09,PC-Production Control,147,100,10,2.52
+2023-04-09,PM-Program Management,5,69,3,1.77
+2023-04-09,QAQC-Quality,0,80,0,2.01875
+2023-04-09,SCM-Supply Chain,108,100,23,2.52
+2023-04-09,STR-Stores,81,56,1,1
+2023-04-16,100S-Aluminum,0,253,0,6.34125
+2023-04-16,100T-Steel,1098,276,85,52.41
+2023-04-16,200S-Machinist,0,19,0,0.48
+2023-04-16,300S-Electrical,0,45,0,1.1275
+2023-04-16,500L-Pipe-Mech,277,65,34,6.93
+2023-04-16,500S-Pipe-Mech,0,102,0,2.57
+2023-04-16,600L-Fitout,0,160,0,4
+2023-04-16,600S-Fitout,0,25,0,0.645
+2023-04-16,800A-Administration,97,21,11,0.66
+2023-04-16,800E-Electrical-Eng,79,9,6,0.23
+2023-04-16,800H-Structures,645,41,42,3.78
+2023-04-16,800M-Mechanical,307,19,15,0.48
+2023-04-16,800X-ILS,40,25,5,0.68
+2023-04-16,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-04-16,920L-Cleaning & Yard,83,65,1,1
+2023-04-16,930L-Tests & Trials,0,1,0,0.045
+2023-04-16,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-04-16,CE-Contracts,1,17,1,0.44
+2023-04-16,CRR-Crane & Rigging,122,67,1,1
+2023-04-16,EST-Estimating,0,1,0,0.0375
+2023-04-16,EVM-Earned Value,17,19,7,0.5
+2023-04-16,PC-Production Control,288,100,14,2.52
+2023-04-16,PM-Program Management,4,21,2,0.55
+2023-04-16,QAQC-Quality,0,80,0,2.01875
+2023-04-16,SCM-Supply Chain,133,100,25,2.52
+2023-04-16,STR-Stores,121,56,1,1
+2023-04-23,100S-Aluminum,151,253,1,1
+2023-04-23,100T-Steel,849,148,68,45.29
+2023-04-23,200S-Machinist,0,19,0,0.48
+2023-04-23,300S-Electrical,0,45,0,1.1275
+2023-04-23,500L-Pipe-Mech,234,124,27,7.63
+2023-04-23,500S-Pipe-Mech,0,102,0,2.57
+2023-04-23,600L-Fitout,0,160,0,4
+2023-04-23,600S-Fitout,0,25,0,0.645
+2023-04-23,800A-Administration,97,21,11,0.71
+2023-04-23,800E-Electrical-Eng,32,18,3,0.46
+2023-04-23,800H-Structures,572,51,47,4.03
+2023-04-23,800M-Mechanical,347,19,10,0.48
+2023-04-23,800X-ILS,28,25,8,0.68
+2023-04-23,910L-Staging Scaffolding and Cribbing,27,24,1,1.6
+2023-04-23,920L-Cleaning & Yard,81,65,1,1
+2023-04-23,930L-Tests & Trials,0,1,0,0.045
+2023-04-23,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-04-23,CE-Contracts,0,17,0,0.43875
+2023-04-23,CRR-Crane & Rigging,121,67,1,1
+2023-04-23,EST-Estimating,0,1,0,0.0375
+2023-04-23,EVM-Earned Value,18,19,7,0.5
+2023-04-23,PC-Production Control,301,100,15,2.52
+2023-04-23,PM-Program Management,9,21,2,0.55
+2023-04-23,QAQC-Quality,0,80,0,2.01875
+2023-04-23,SCM-Supply Chain,155,100,25,2.52
+2023-04-23,STR-Stores,112,56,1,1
+2023-04-30,100S-Aluminum,251,253,1,1
+2023-04-30,100T-Steel,1248,144,103,53.32
+2023-04-30,200S-Machinist,0,19,0,0.48
+2023-04-30,300L-Electrical,0,65,0,1.625
+2023-04-30,300S-Electrical,0,45,0,1.1275
+2023-04-30,500L-Pipe-Mech,696,273,59,13.05
+2023-04-30,500S-Pipe-Mech,0,102,0,2.57
+2023-04-30,600L-Fitout,0,226,0,5.66625
+2023-04-30,600S-Fitout,0,25,0,0.645
+2023-04-30,800A-Administration,80,21,9,0.61
+2023-04-30,800E-Electrical-Eng,158,18,7,0.46
+2023-04-30,800H-Structures,642,67,52,5.42
+2023-04-30,800M-Mechanical,373,19,11,0.48
+2023-04-30,800X-ILS,9,18,3,0.49
+2023-04-30,910L-Staging Scaffolding and Cribbing,3,24,1,1.6
+2023-04-30,920L-Cleaning & Yard,107,65,1,1
+2023-04-30,930L-Tests & Trials,0,1,0,0.045
+2023-04-30,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-04-30,CE-Contracts,2,17,1,0.44
+2023-04-30,CRR-Crane & Rigging,168,67,1,1
+2023-04-30,EST-Estimating,0,1,0,0.0375
+2023-04-30,EVM-Earned Value,18,19,6,0.5
+2023-04-30,PC-Production Control,251,100,16,2.52
+2023-04-30,PM-Program Management,22,113,4,2.89
+2023-04-30,QAQC-Quality,2,80,1,2.02
+2023-04-30,SCM-Supply Chain,132,100,23,2.52
+2023-04-30,STR-Stores,159,56,1,1
+2023-05-07,100S-Aluminum,426,253,1,1
+2023-05-07,100T-Steel,2304,65,190,84.2
+2023-05-07,200S-Machinist,0,19,0,0.48
+2023-05-07,300S-Electrical,0,45,0,1.1275
+2023-05-07,500L-Pipe-Mech,717,317,81,21.04
+2023-05-07,500S-Pipe-Mech,0,102,0,2.57
+2023-05-07,600L-Fitout,0,226,0,5.66625
+2023-05-07,600S-Fitout,0,25,0,0.645
+2023-05-07,800A-Administration,72,21,11,0.61
+2023-05-07,800E-Electrical-Eng,166,18,8,0.46
+2023-05-07,800H-Structures,539,73,56,6.59
+2023-05-07,800M-Mechanical,376,22,12,0.58
+2023-05-07,800X-ILS,10,18,5,0.49
+2023-05-07,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-05-07,920L-Cleaning & Yard,125,65,1,1
+2023-05-07,930L-Tests & Trials,0,1,0,0.045
+2023-05-07,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-05-07,CE-Contracts,1,17,1,0.44
+2023-05-07,CRR-Crane & Rigging,224,67,1,1
+2023-05-07,EST-Estimating,0,1,0,0.0375
+2023-05-07,EVM-Earned Value,15,19,7,0.5
+2023-05-07,PC-Production Control,318,100,19,2.52
+2023-05-07,PM-Program Management,31,113,5,2.89
+2023-05-07,QAQC-Quality,0,80,0,2.01875
+2023-05-07,SCM-Supply Chain,132,100,23,2.52
+2023-05-07,STR-Stores,208,56,1,1
+2023-05-14,100S-Aluminum,403,253,1,1
+2023-05-14,100T-Steel,1905,25,166,105.93
+2023-05-14,200S-Machinist,0,19,0,0.48
+2023-05-14,300S-Electrical,0,45,0,1.1275
+2023-05-14,500L-Pipe-Mech,820,355,86,19.89
+2023-05-14,500S-Pipe-Mech,0,102,0,2.57
+2023-05-14,600L-Fitout,0,270,0,6.76625
+2023-05-14,600S-Fitout,0,25,0,0.645
+2023-05-14,800A-Administration,69,21,10,0.61
+2023-05-14,800E-Electrical-Eng,330,18,9,0.46
+2023-05-14,800H-Structures,416,65,52,5.56
+2023-05-14,800M-Mechanical,414,51,16,1.35
+2023-05-14,800X-ILS,6,18,3,0.49
+2023-05-14,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-05-14,920L-Cleaning & Yard,116,65,1,1
+2023-05-14,930L-Tests & Trials,0,1,0,0.045
+2023-05-14,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-05-14,CE-Contracts,3,17,1,0.44
+2023-05-14,CRR-Crane & Rigging,207,67,1,1
+2023-05-14,EST-Estimating,0,1,0,0.0375
+2023-05-14,EVM-Earned Value,12,19,9,0.5
+2023-05-14,PC-Production Control,293,100,18,2.52
+2023-05-14,PM-Program Management,14,113,4,2.89
+2023-05-14,QAQC-Quality,6,80,4,2.02
+2023-05-14,SCM-Supply Chain,114,100,23,2.52
+2023-05-14,STR-Stores,193,56,1,1
+2023-05-21,100S-Aluminum,220,253,1,1
+2023-05-21,100T-Steel,1621,0,145,89.43
+2023-05-21,200S-Machinist,0,19,0,0.48
+2023-05-21,300L-Electrical,0,60,0,1.5
+2023-05-21,300S-Electrical,0,45,0,1.1275
+2023-05-21,500L-Pipe-Mech,820,166,105,19.91
+2023-05-21,500S-Pipe-Mech,148,102,1,1
+2023-05-21,600L-Fitout,0,376,0,9.40375
+2023-05-21,600S-Fitout,0,25,0,0.645
+2023-05-21,800A-Administration,70,21,10,0.61
+2023-05-21,800E-Electrical-Eng,287,18,9,0.46
+2023-05-21,800H-Structures,558,70,53,6.53
+2023-05-21,800M-Mechanical,460,51,17,1.35
+2023-05-21,800X-ILS,6,3,2,0.1
+2023-05-21,910L-Staging Scaffolding and Cribbing,27,48,5,3.2
+2023-05-21,920L-Cleaning & Yard,136,65,1,1
+2023-05-21,930L-Tests & Trials,0,1,0,0.045
+2023-05-21,985L-Fire and Flooding Protection,4,27,2,0.69
+2023-05-21,CE-Contracts,1,17,1,0.44
+2023-05-21,CRR-Crane & Rigging,211,67,1,1
+2023-05-21,EST-Estimating,0,1,0,0.0375
+2023-05-21,EVM-Earned Value,9,19,7,0.5
+2023-05-21,PC-Production Control,357,100,19,2.52
+2023-05-21,PM-Program Management,25,113,5,2.89
+2023-05-21,QAQC-Quality,5,80,4,2.02
+2023-05-21,SCM-Supply Chain,144,100,25,2.52
+2023-05-21,STR-Stores,191,56,1,1
+2023-05-28,100S-Aluminum,374,253,1,1
+2023-05-28,100T-Steel,2557,66,234,113.56
+2023-05-28,200S-Machinist,0,19,0,0.48
+2023-05-28,300L-Electrical,0,60,0,1.5
+2023-05-28,300S-Electrical,0,45,0,1.1275
+2023-05-28,500L-Pipe-Mech,589,145,93,18.3
+2023-05-28,500S-Pipe-Mech,107,102,1,1
+2023-05-28,600L-Fitout,0,212,0,5.30375
+2023-05-28,600S-Fitout,0,25,0,0.645
+2023-05-28,800A-Administration,89,21,11,0.61
+2023-05-28,800E-Electrical-Eng,275,18,9,0.46
+2023-05-28,800H-Structures,603,109,85,7.52
+2023-05-28,800M-Mechanical,436,29,16,0.77
+2023-05-28,800X-ILS,32,10,5,0.29
+2023-05-28,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-05-28,920L-Cleaning & Yard,163,65,1,1
+2023-05-28,930L-Tests & Trials,0,1,0,0.045
+2023-05-28,985L-Fire and Flooding Protection,3,27,1,0.69
+2023-05-28,CE-Contracts,1,17,1,0.44
+2023-05-28,CRR-Crane & Rigging,244,67,1,1
+2023-05-28,EST-Estimating,0,1,0,0.0375
+2023-05-28,EVM-Earned Value,11,19,7,0.5
+2023-05-28,PC-Production Control,261,100,17,2.52
+2023-05-28,PM-Program Management,21,113,4,2.89
+2023-05-28,QAQC-Quality,6,80,2,2.02
+2023-05-28,SCM-Supply Chain,129,100,23,2.52
+2023-05-28,STR-Stores,218,56,1,1
+2023-06-04,100S-Aluminum,240,253,1,1
+2023-06-04,100T-Steel,1813,0,170,78.63
+2023-06-04,200S-Machinist,0,19,0,0.48
+2023-06-04,300S-Electrical,0,45,0,1.1275
+2023-06-04,500L-Pipe-Mech,361,58,63,17.13
+2023-06-04,500S-Pipe-Mech,62,102,1,1
+2023-06-04,600S-Fitout,0,25,0,0.645
+2023-06-04,800A-Administration,54,21,10,0.61
+2023-06-04,800E-Electrical-Eng,221,18,8,0.46
+2023-06-04,800H-Structures,446,108,65,7.74
+2023-06-04,800M-Mechanical,415,22,14,0.58
+2023-06-04,800X-ILS,22,10,4,0.29
+2023-06-04,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-06-04,920L-Cleaning & Yard,140,65,1,1
+2023-06-04,930L-Tests & Trials,0,1,0,0.045
+2023-06-04,985L-Fire and Flooding Protection,6,27,1,0.69
+2023-06-04,CE-Contracts,1,17,1,0.44
+2023-06-04,CRR-Crane & Rigging,170,67,1,1
+2023-06-04,EST-Estimating,0,1,0,0.0375
+2023-06-04,EVM-Earned Value,14,19,8,0.5
+2023-06-04,PC-Production Control,280,100,20,2.52
+2023-06-04,PM-Program Management,15,113,5,2.89
+2023-06-04,QAQC-Quality,5,80,1,2.02
+2023-06-04,SCM-Supply Chain,93,100,22,2.52
+2023-06-04,STR-Stores,162,56,1,1
+2023-06-11,100S-Aluminum,517,253,1,1
+2023-06-11,100T-Steel,3881,120,314,116.37
+2023-06-11,200S-Machinist,0,19,0,0.48
+2023-06-11,300L-Electrical,0,20,0,0.5025
+2023-06-11,300S-Electrical,0,45,0,1.1275
+2023-06-11,500L-Pipe-Mech,749,127,108,21.35
+2023-06-11,500S-Pipe-Mech,130,102,1,1
+2023-06-11,600L-Fitout,0,7,0,0.1975
+2023-06-11,600S-Fitout,0,25,0,0.645
+2023-06-11,800A-Administration,79,21,13,0.61
+2023-06-11,800E-Electrical-Eng,321,18,9,0.46
+2023-06-11,800H-Structures,461,125,95,8.52
+2023-06-11,800M-Mechanical,466,51,19,1.35
+2023-06-11,800X-ILS,7,3,3,0.1
+2023-06-11,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-06-11,920L-Cleaning & Yard,215,65,1,1
+2023-06-11,930L-Tests & Trials,0,1,0,0.045
+2023-06-11,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-06-11,CE-Contracts,1,17,1,0.44
+2023-06-11,CRR-Crane & Rigging,287,67,1,1
+2023-06-11,EST-Estimating,0,1,0,0.0375
+2023-06-11,EVM-Earned Value,14,19,8,0.5
+2023-06-11,PC-Production Control,301,100,20,2.52
+2023-06-11,PM-Program Management,22,113,6,2.89
+2023-06-11,QAQC-Quality,8,80,3,2.02
+2023-06-11,SCM-Supply Chain,155,100,22,2.52
+2023-06-11,STR-Stores,265,56,1,1
+2023-06-18,100S-Aluminum,560,253,1,1
+2023-06-18,100T-Steel,4251,404,315,128.27
+2023-06-18,200L-Machinist,0,67,0,1.68
+2023-06-18,200S-Machinist,0,19,0,0.48
+2023-06-18,300L-Electrical,0,71,0,1.79375
+2023-06-18,300S-Electrical,0,45,0,1.1275
+2023-06-18,500L-Pipe-Mech,816,227,102,23.8
+2023-06-18,500S-Pipe-Mech,147,102,1,1
+2023-06-18,600L-Fitout,0,7,0,0.1975
+2023-06-18,600S-Fitout,0,25,0,0.645
+2023-06-18,800A-Administration,100,21,12,0.61
+2023-06-18,800E-Electrical-Eng,247,18,8,0.46
+2023-06-18,800H-Structures,526,107,95,9.35
+2023-06-18,800M-Mechanical,432,29,14,0.77
+2023-06-18,800X-ILS,7,3,5,0.1
+2023-06-18,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-06-18,920L-Cleaning & Yard,223,65,1,1
+2023-06-18,930L-Tests & Trials,0,1,0,0.045
+2023-06-18,985L-Fire and Flooding Protection,0,27,0,0.685
+2023-06-18,CE-Contracts,1,17,1,0.44
+2023-06-18,CRR-Crane & Rigging,315,67,1,1
+2023-06-18,EST-Estimating,0,1,0,0.0375
+2023-06-18,EVM-Earned Value,10,19,7,0.5
+2023-06-18,PC-Production Control,467,100,23,2.52
+2023-06-18,PM-Program Management,18,113,5,2.89
+2023-06-18,QAQC-Quality,38,80,5,2.02
+2023-06-18,SCM-Supply Chain,123,100,24,2.52
+2023-06-18,STR-Stores,286,56,1,1
+2023-06-25,100S-Aluminum,290,253,1,1
+2023-06-25,100T-Steel,3799,109,280,111.51
+2023-06-25,200L-Machinist,0,67,0,1.68
+2023-06-25,200S-Machinist,0,19,0,0.48
+2023-06-25,300L-Electrical,0,20,0,0.5025
+2023-06-25,300S-Electrical,0,45,0,1.1275
+2023-06-25,500L-Pipe-Mech,1118,272,97,23.12
+2023-06-25,500S-Pipe-Mech,122,102,1,1
+2023-06-25,600L-Fitout,10,0,1,0.54
+2023-06-25,600S-Fitout,1,25,1,1
+2023-06-25,800A-Administration,127,21,12,0.61
+2023-06-25,800E-Electrical-Eng,288,18,7,0.46
+2023-06-25,800H-Structures,455,142,75,9.76
+2023-06-25,800M-Mechanical,419,60,14,1.54
+2023-06-25,800X-ILS,10,18,5,0.49
+2023-06-25,910L-Staging Scaffolding and Cribbing,0,24,0,0.60125
+2023-06-25,920L-Cleaning & Yard,210,65,1,1
+2023-06-25,930L-Tests & Trials,0,1,0,0.045
+2023-06-25,985L-Fire and Flooding Protection,6,27,1,0.69
+2023-06-25,CE-Contracts,2,17,1,0.44
+2023-06-25,CRR-Crane & Rigging,316,67,1,1
+2023-06-25,EST-Estimating,0,1,0,0.0375
+2023-06-25,EVM-Earned Value,12,19,6,0.5
+2023-06-25,PC-Production Control,336,100,21,2.52
+2023-06-25,PM-Program Management,25,113,5,2.89
+2023-06-25,QAQC-Quality,22,80,5,2.02
+2023-06-25,SCM-Supply Chain,156,100,25,2.52
+2023-06-25,STR-Stores,276,56,1,1
