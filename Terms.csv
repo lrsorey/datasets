@@ -1,0 +1,35 @@
+Emp_ID,Name,Cost Center ID,Cost Center Name,Hire Date,Worker Type,Employee Type,Pay Type,Job Title,Craft ID,Labor Category,Company,Supervisor,Management Status,Termination Date,Gender,Termination Reason,Length Of Service In Years
+12345,Bell Mertz,1001,Finance,2/15/2014,Employee,Regular,Salary,Jr Cost Accountant,PM,PM,Austal USA LLC,Waters,Non Management,7/12/2023,Female,Another Job,8.57 
+12350,Susan Thomas,1006,Electrical - Final Assembly,3/6/2023,Employee,Regular,Hourly,Electrical Apprentice,300L,PROD,Austal USA LLC,Thompson,Non Management,7/14/2023,Female,NCNS,0.35 
+12355,Bill Carpenter,1006,Electrical - Final Assembly,8/24/2015,Employee,Regular,Hourly,Electrican A-Class,300L,PROD,Austal USA LLC,Thompson,Non Management,7/20/2023,Male,Another Job,7.90 
+12360,Guy Pearson,1007,Engineering,11/21/2022,Employee,Regular,Salary,Naval Architect II,800H,ENG,Austal USA LLC,Norman,Non Management,7/3/2023,Male,Resigned no notice,0.61 
+12365,Bill Sowell,1007,Engineering,9/23/2019,Employee,Regular,Hourly,Structural Designer I,800H,ENG,Austal USA LLC,Womack,Non Management,7/7/2023,Male,Relocation,3.79 
+12370,David Steen,1007,Engineering,4/24/2023,Employee,Regular,Hourly,Structural Designer I,800H,ENG,Austal USA LLC,Eubanks,Non Management,7/19/2023,Male,Misconduct,0.24 
+12375,Jane Brown,1007,Engineering,5/20/2019,Employee,Regular,Salary,Structural Engineer II,800H,ENG,Austal USA LLC,Norman,Non Management,7/21/2023,Female,Another Job  - More Money,4.17 
+12380,Scott Ryals,1009,Fabrication - Final Assembly,10/24/2022,Employee,Regular,Hourly,Fabrication Trades Assistant,100L,PROD,Austal USA LLC,Alford,Non Management,7/14/2023,Male,NCNS,0.72 
+12385,Jerry Santucci,1020,Pip - Final Assembly,6/26/2023,Employee,Regular,Hourly,Pipefitter A-Class,500L,PROD,Austal USA LLC,Knowles,Non Management,7/12/2023,Male,Dis-Satisfied With Supervisor,0.04 
+12390,Barbie McGee,1020,Pip - Final Assembly,5/8/2023,Employee,Regular,Hourly,Pipefitter A-Class,500L,PROD,Austal USA LLC,Smith,Non Management,7/19/2023,Female,Attendance - Involuntary,0.20 
+12395,Austin Miller,1020,Pip - Final Assembly,4/6/2015,Employee,Regular,Hourly,Pipefitter A-Class,500L,PROD,Austal USA LLC,Knowles,Non Management,7/20/2023,Male,Another Job,8.29 
+12400,Kaleb Jones,1021,Fabrication - MMF 1,3/24/2014,Employee,Regular,Hourly,Structural Welder A-Class,100L,PROD,Austal USA LLC,Coxwell,Non Management,7/11/2023,Male,Personal Reasons,9.30 
+12405,Eddie Robinson,1021,Fabrication - MMF 1,7/10/2023,Employee,Regular,Hourly,Fabrication Trades Assistant,100L,PROD,Austal USA LLC,Geno,Non Management,7/19/2023,Male,NCNS,0.02 
+12410,Sheila White,1021,Fabrication - MMF 1,6/3/2019,Employee,Regular,Hourly,Structural Fitter B-Class,100L,PROD,Austal USA LLC,Ross,Non Management,7/21/2023,Female,Personal Reasons,4.13 
+12415,Matt Green,1025,Site Services,5/22/2023,Employee,Regular,Hourly,Yard Maintenance Clearner,IND,IND,Austal USA LLC,Tillman,Non Management,7/17/2023,Male,Another Job - More Money,0.15 
+12420,Charles Right,1027,Supply Chain Management,6/12/2023,Employee,Regular,Salary,SCM Order Management Specialist,SCM,ODL,Austal USA LLC,Dixon,Non Management,7/7/2023,Male,Personal Reasons,0.07 
+12425,Brad Jones,1027,Supply Chain Management,8/17/2015,Employee,Regular,Salary,SCM Quotation Specialist II,SCM,ODL,Austal USA LLC,Lacroix,Non Management,7/7/2023,Male,Personal Reasons,7.88 
+12430,Chris Bell,1027,Supply Chain Management,7/20/2015,Employee,Regular,Salary,Sr Manager Category Purchasing,SCM,ODL,Austal USA LLC,Burbic,Manager 2,7/7/2023,Male,Personal Reasons,7.97 
+12435,Lana Public,1027,Supply Chain Management,6/26/2023,Employee,Regular,Salary,Third Party Risk Management Analyst,IND,IND,Austal USA LLC,Bauer,Non Management,7/14/2023,Female,Personal Reasons,0.05 
+12440,John James,1027,Supply Chain Management,8/14/2017,Employee,Regular,Salary,Strategic Sourcing Specialist  Sr,SCM,ODL,Austal USA LLC,Burbic,Non Management,7/21/2023,Male,Another Job - More Money,5.94 
+12445,James Kilroy,1030,Crane & Rigging,2/20/2023,Employee,Regular,Hourly,Rigger,CRR,PROD,Austal USA LLC,James,Non Management,7/7/2023,Male,Another Job - More Money,0.38 
+12450,Crystal Ball,1030,Crane & Rigging,4/1/2013,Employee,Regular,Hourly,Crane operator,CRR,PROD,Austal USA LLC,Tolbert,Non Management,7/10/2023,Female,Dscsrtalsd,10.27 
+12455,Joh Brown,1031,Service and Support,2/27/2017,Employee,Regular,Salary,Project Lead PDSS - EPF,PM,PM,Austal USA LLC,McLaney,Manager 1,7/7/2023,Male,Another Job,6.36 
+12460,Carrie John,1032,Test & Activation,4/18/2016,Employee,Regular,Hourly,Vessel Watch Stander II,930L,PROD,Austal USA LLC,Mixson,Non Management,7/3/2023,Female,Rehired,7.21 
+12465,Fred Johnson,1043,Fitout - MMF 1,2/13/2023,Employee,Regular,Hourly,Tradesman B-Class,600L,PROD,Austal USA LLC,Arnold,Non Management,7/19/2023,Male,NCNS,0.44 
+12470,John Greco,1048,Fabrication - MMF 2,6/3/2019,Employee,Regular,Hourly,Structural Fittter B-Class,100L,PROD,Austal USA LLC,Dixon,Non Management,7/3/2023,Male,Another Job - More Money,4.08 
+12475,Sam Wright,1048,Fabrication - MMF 2,2/2/2022,Employee,Regular,Hourly,Fabrication Apprentice,100L,PROD,Austal USA LLC,Stoddard,Non Management,7/5/2023,Male,NCNS,1.18 
+12480,Syndee Tayloe,1048,Fabrication - MMF 2,9/17/2012,Employee,Regular,Hourly,Structural Fitter A-Class,100L,PROD,Austal USA LLC,Skinner,Non Management,7/14/2023,Female,Dis-Satisfied With Shift,10.82 
+12485,John Good,1048,Fabrication - MMF 2,11/25/2019,Employee,Regular,Hourly,Structural Welder A-Class,100L,PROD,Austal USA LLC,Stoddard,Non Management,7/14/2023,Male,Another Job,3.63 
+12490,Mary Jones,1048,Fabrication - MMF 2,4/14/2014,Employee,Regular,Hourly,Structural Welder A-Class,100L,PROD,Austal USA LLC,Goodwin,Non Management,7/20/2023,Female,Personal Reasons,9.27 
+12495,Mary James,1049,Electrical - MMF 2,1/28/2013,Employee,Regular,Hourly,Electrician A-Class,300L,PROD,Austal USA LLC,Winchester,Non Management,7/6/2023,Female,Relocation,10.44 
+12500,Guido Palasini,1050,Pipe - MMF 2,3/6/2023,Employee,Regular,Hourly,Pipe Apprentice,500L,PROD,Austal USA LLC,Brown,Non Management,7/6/2023,Male,Another Job - More Money,0.33 
+12505,Ned Ruggeri,1052,Firout - MMF 2,2/27/2023,Employee,Regular,Hourly,Tradesman B-Class,600L,PROD,Austal USA LLC,Shanahan,Supervsior,7/3/2023,Male,Another Job,0.35 
+12510,David Prine,1070,West Campus Operations,9/14/2020,Employee,Regular,Hourly,Crane & Rigging Supervisor,CRR,PROD,Austal USA LLC,Middleton,Non Management,7/5/2023,Male,Another Job - More Money,2.81 
